@@ -3,7 +3,7 @@
 Plugin Name: 302 Instead
 Plugin URI: https://github.com/EpicPilgrim/302-instead
 Description: Send a 302 (temporary) redirect instead of 301 (permanent) for sites where shortlinks may change
-Version: 1.2
+Version: 1.3
 Author: BrettR
 Author URI: https://github.com/EpicPilgrim/302-instead
   */

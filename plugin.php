@@ -15,5 +15,6 @@ function temp_instead_function($args) {
   if ($code != 302) {
     // Redirect with 302 instead
     yourls_redirect($url,302);
+    die();
   }
 }

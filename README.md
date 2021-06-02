@@ -7,7 +7,7 @@ This plugin applies across an entire yourls installation - cannot currently be c
 
 Requirements
 
-yourls 1.5 or 1.5.1
+yourls 1.8.1 (although earlier versions may still work, only one minor change was made to support 1.8.1 from the same code that worked in the 1.5 branch)
 
 Installation
 
